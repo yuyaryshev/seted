@@ -1,0 +1,9 @@
+[folder1]
+setting1: aaa
+setting2: aaa
+setting3: bbb
+
+[folder2]
+setting1: aaa
+setting2: aaa
+setting3: bbb

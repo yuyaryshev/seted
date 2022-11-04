@@ -1,0 +1,3207 @@
+[
+ {
+  "cpl": 552,
+  "filePath": "packages/object_to_messages_ifc/src/GenericValue.ts",
+  "pos": 1739
+ },
+ {
+  "cpl": 70,
+  "filePath": "packages/object_to_messages_ifc/src/GenericValue.ts",
+  "pos": 1828
+ },
+ {
+  "cpl": 597,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 11339
+ },
+ {
+  "cpl": 598,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 11435
+ },
+ {
+  "cpl": 291,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 13442
+ },
+ {
+  "cpl": 292,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 13502
+ },
+ {
+  "cpl": 219,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 14028
+ },
+ {
+  "cpl": 220,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 15240
+ },
+ {
+  "cpl": 488,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 15439
+ },
+ {
+  "cpl": 489,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 15646
+ },
+ {
+  "cpl": 1069,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 15838
+ },
+ {
+  "cpl": 1070,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 16026
+ },
+ {
+  "cpl": 1071,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 19486
+ },
+ {
+  "cpl": 561,
+  "filePath": "packages/object_to_messages_ifc/src/KeyValueToMsgTranslator.ts",
+  "pos": 19522
+ },
+ {
+  "cpl": 495,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStateReaderFacade.ts",
+  "pos": 2503
+ },
+ {
+  "cpl": 496,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStateReaderFacade.ts",
+  "pos": 2664
+ },
+ {
+  "cpl": 497,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStateReaderFacade.ts",
+  "pos": 2832
+ },
+ {
+  "cpl": 498,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStateReaderFacade.ts",
+  "pos": 2995
+ },
+ {
+  "cpl": 499,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStateReaderFacade.ts",
+  "pos": 3365
+ },
+ {
+  "cpl": 500,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStateReaderFacade.ts",
+  "pos": 3725
+ },
+ {
+  "cpl": 501,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStateReaderFacade.ts",
+  "pos": 3892
+ },
+ {
+  "cpl": 502,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStateReaderFacade.ts",
+  "pos": 5241
+ },
+ {
+  "cpl": 108,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStore.ts",
+  "pos": 1711
+ },
+ {
+  "cpl": 59,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStore.ts",
+  "pos": 2181
+ },
+ {
+  "cpl": 518,
+  "filePath": "packages/object_to_messages_ifc/src/ObjStore.ts",
+  "pos": 3209
+ },
+ {
+  "cpl": 512,
+  "filePath": "packages/object_to_messages_ifc/src/ObjectId.ts",
+  "pos": 1802
+ },
+ {
+  "cpl": 513,
+  "filePath": "packages/object_to_messages_ifc/src/ObjectId.ts",
+  "pos": 1977
+ },
+ {
+  "cpl": 514,
+  "filePath": "packages/object_to_messages_ifc/src/ObjectId.ts",
+  "pos": 2111
+ },
+ {
+  "cpl": 562,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjStore.ts",
+  "pos": 3467
+ },
+ {
+  "cpl": 563,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjStore.ts",
+  "pos": 5535
+ },
+ {
+  "cpl": 60,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjStore.ts",
+  "pos": 6602
+ },
+ {
+  "cpl": 61,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjStore.ts",
+  "pos": 6811
+ },
+ {
+  "cpl": 62,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjStore.ts",
+  "pos": 7378
+ },
+ {
+  "cpl": 107,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjStore.ts",
+  "pos": 7571
+ },
+ {
+  "cpl": 200348,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjStore.ts",
+  "pos": 7768
+ },
+ {
+  "cpl": 400348,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjStore.ts",
+  "pos": 8821
+ },
+ {
+  "cpl": 1,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 2248
+ },
+ {
+  "cpl": 560,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 3712
+ },
+ {
+  "cpl": 109,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 4231
+ },
+ {
+  "cpl": 110,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 4738
+ },
+ {
+  "cpl": 49,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 5257
+ },
+ {
+  "cpl": 50,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 5616
+ },
+ {
+  "cpl": 51,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 6382
+ },
+ {
+  "cpl": 52,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 6921
+ },
+ {
+  "cpl": 53,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 7539
+ },
+ {
+  "cpl": 54,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 8164
+ },
+ {
+  "cpl": 55,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 8754
+ },
+ {
+  "cpl": 56,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 9419
+ },
+ {
+  "cpl": 38,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/RuntimeObjectLikeUsage.test.ts",
+  "pos": 9865
+ },
+ {
+  "cpl": 610,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 866
+ },
+ {
+  "cpl": 611,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 1202
+ },
+ {
+  "cpl": 612,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 1299
+ },
+ {
+  "cpl": 613,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 1388
+ },
+ {
+  "cpl": 614,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 1449
+ },
+ {
+  "cpl": 39,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 1470
+ },
+ {
+  "cpl": 40,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 1934
+ },
+ {
+  "cpl": 41,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 2521
+ },
+ {
+  "cpl": 42,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 3053
+ },
+ {
+  "cpl": 43,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 3343
+ },
+ {
+  "cpl": 44,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 5094
+ },
+ {
+  "cpl": 45,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 5144
+ },
+ {
+  "cpl": 46,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 1620
+ },
+ {
+  "cpl": 47,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 2085
+ },
+ {
+  "cpl": 73,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 3872
+ },
+ {
+  "cpl": 74,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4150
+ },
+ {
+  "cpl": 75,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4508
+ },
+ {
+  "cpl": 76,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4640
+ },
+ {
+  "cpl": 77,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4797
+ },
+ {
+  "cpl": 78,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4925
+ },
+ {
+  "cpl": 79,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 5058
+ },
+ {
+  "cpl": 80,
+  "filePath": "packages/object_to_messages_ifc/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 5109
+ },
+ {
+  "cpl": 503,
+  "filePath": "packages/object_to_messages_ifc/src/interfaces/Cursor.ts",
+  "pos": 1875
+ },
+ {
+  "cpl": 81,
+  "filePath": "packages/object_to_messages_ifc/src/interfaces/mappedCursors.ts",
+  "pos": 1508
+ },
+ {
+  "cpl": 534,
+  "filePath": "packages/object_to_messages_ifc/src/obj_to_msg.test.ts",
+  "pos": 3476
+ },
+ {
+  "cpl": 511,
+  "filePath": "packages/object_to_messages_ifc/src/objectProxHandler.ts",
+  "pos": 1718
+ },
+ {
+  "cpl": 515,
+  "filePath": "packages/object_to_messages_ifc/src/observe_native/observeNative.ts",
+  "pos": 733
+ },
+ {
+  "cpl": 516,
+  "filePath": "packages/object_to_messages_ifc/src/observe_native/observeNative.ts",
+  "pos": 1627
+ },
+ {
+  "cpl": 517,
+  "filePath": "packages/object_to_messages_ifc/src/observe_native/observeNative.ts",
+  "pos": 2943
+ },
+ {
+  "cpl": 519,
+  "filePath": "packages/object_to_messages_ifc/src/start.ts",
+  "pos": 71
+ },
+ {
+  "cpl": 494,
+  "filePath": "packages/object_to_messages_ifc/src/test/makeProcessorAndReaderSpies.ts",
+  "pos": 2634
+ },
+ {
+  "cpl": 161,
+  "filePath": "packages/odb/src/Computed2.test.ts",
+  "pos": 4080
+ },
+ {
+  "cpl": 556,
+  "filePath": "packages/odb/src/Computed2.test.ts",
+  "pos": 4888
+ },
+ {
+  "cpl": 90,
+  "filePath": "packages/odb/src/Computed2.test.ts",
+  "pos": 5463
+ },
+ {
+  "cpl": 1017,
+  "filePath": "packages/odb/src/Computed2.test.ts",
+  "pos": 6665
+ },
+ {
+  "cpl": 445,
+  "filePath": "packages/odb/src/Computed2.test.ts",
+  "pos": 7379
+ },
+ {
+  "cpl": 106,
+  "filePath": "packages/odb/src/Computed2.test.ts",
+  "pos": 9035
+ },
+ {
+  "cpl": 400,
+  "filePath": "packages/odb/src/Loadable.ts",
+  "pos": 2086
+ },
+ {
+  "cpl": 558,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 1104
+ },
+ {
+  "cpl": 410,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 2504
+ },
+ {
+  "cpl": 402,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 2987
+ },
+ {
+  "cpl": 579,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 3322
+ },
+ {
+  "cpl": 580,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 4016
+ },
+ {
+  "cpl": 581,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 4503
+ },
+ {
+  "cpl": 582,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 5065
+ },
+ {
+  "cpl": 583,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 5630
+ },
+ {
+  "cpl": 584,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 6164
+ },
+ {
+  "cpl": 585,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 6769
+ },
+ {
+  "cpl": 586,
+  "filePath": "packages/odb/src/ObjectLikeUsage.test.ts",
+  "pos": 7159
+ },
+ {
+  "cpl": 587,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 955
+ },
+ {
+  "cpl": 525,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 1438
+ },
+ {
+  "cpl": 526,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 1773
+ },
+ {
+  "cpl": 527,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 2467
+ },
+ {
+  "cpl": 528,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 2954
+ },
+ {
+  "cpl": 89,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 3516
+ },
+ {
+  "cpl": 529,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 4081
+ },
+ {
+  "cpl": 530,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 4615
+ },
+ {
+  "cpl": 531,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 5220
+ },
+ {
+  "cpl": 532,
+  "filePath": "packages/odb/src/ObjectLikeUsageForUI.test.ts",
+  "pos": 5610
+ },
+ {
+  "cpl": 533,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 8671
+ },
+ {
+  "cpl": 96,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 8791
+ },
+ {
+  "cpl": 16,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 10991
+ },
+ {
+  "cpl": 83,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 11659
+ },
+ {
+  "cpl": 66,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 12588
+ },
+ {
+  "cpl": 222,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 16670
+ },
+ {
+  "cpl": 162,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 17017
+ },
+ {
+  "cpl": 185,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 17694
+ },
+ {
+  "cpl": 85,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 17804
+ },
+ {
+  "cpl": 1072,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 17916
+ },
+ {
+  "cpl": 111,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 18288
+ },
+ {
+  "cpl": 71,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 21206
+ },
+ {
+  "cpl": 535,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 21326
+ },
+ {
+  "cpl": 536,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 23042
+ },
+ {
+  "cpl": 550,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 23264
+ },
+ {
+  "cpl": 1067,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 24533
+ },
+ {
+  "cpl": 553,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 25418
+ },
+ {
+  "cpl": 554,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 25870
+ },
+ {
+  "cpl": 555,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 26201
+ },
+ {
+  "cpl": 84000,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 27083
+ },
+ {
+  "cpl": 2,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 27304
+ },
+ {
+  "cpl": 551,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 28334
+ },
+ {
+  "cpl": 82,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 32203
+ },
+ {
+  "cpl": 557,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 34015
+ },
+ {
+  "cpl": 450,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 37361
+ },
+ {
+  "cpl": 92,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 37520
+ },
+ {
+  "cpl": 93,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 38188
+ },
+ {
+  "cpl": 94,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 38405
+ },
+ {
+  "cpl": 98,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 39570
+ },
+ {
+  "cpl": 28,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 42786
+ },
+ {
+  "cpl": 29,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 42997
+ },
+ {
+  "cpl": 486,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 43456
+ },
+ {
+  "cpl": 487,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 44526
+ },
+ {
+  "cpl": 559,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 47432
+ },
+ {
+  "cpl": 409,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 51837
+ },
+ {
+  "cpl": 411,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 52063
+ },
+ {
+  "cpl": 412,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 52364
+ },
+ {
+  "cpl": 413,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 52743
+ },
+ {
+  "cpl": 414,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 53023
+ },
+ {
+  "cpl": 415,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 53202
+ },
+ {
+  "cpl": 416,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 53545
+ },
+ {
+  "cpl": 490,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 53794
+ },
+ {
+  "cpl": 491,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 55360
+ },
+ {
+  "cpl": 99,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 56109
+ },
+ {
+  "cpl": 417,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 56316
+ },
+ {
+  "cpl": 418,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 57937
+ },
+ {
+  "cpl": 419,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 58544
+ },
+ {
+  "cpl": 420,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 58911
+ },
+ {
+  "cpl": 421,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 59416
+ },
+ {
+  "cpl": 422,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 60529
+ },
+ {
+  "cpl": 234,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 60937
+ },
+ {
+  "cpl": 235,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 61070
+ },
+ {
+  "cpl": 236,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 62002
+ },
+ {
+  "cpl": 441,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 62825
+ },
+ {
+  "cpl": 100,
+  "filePath": "packages/odb/src/OdbBase.ts",
+  "pos": 63721
+ },
+ {
+  "cpl": 237,
+  "filePath": "packages/odb/src/OdbBaseViewStateReader.ts",
+  "pos": 1518
+ },
+ {
+  "cpl": 238,
+  "filePath": "packages/odb/src/OdbBaseViewStateReader.ts",
+  "pos": 1981
+ },
+ {
+  "cpl": 95,
+  "filePath": "packages/odb/src/OdbComputedConnection.ts",
+  "pos": 5614
+ },
+ {
+  "cpl": 97,
+  "filePath": "packages/odb/src/OdbComputedConnection.ts",
+  "pos": 5935
+ },
+ {
+  "cpl": 12,
+  "filePath": "packages/odb/src/OdbConnection.ts",
+  "pos": 3215
+ },
+ {
+  "cpl": 13,
+  "filePath": "packages/odb/src/OdbConnection.ts",
+  "pos": 3339
+ },
+ {
+  "cpl": 14,
+  "filePath": "packages/odb/src/OdbConnection.ts",
+  "pos": 6170
+ },
+ {
+  "cpl": 15,
+  "filePath": "packages/odb/src/OdbConnection.ts",
+  "pos": 7136
+ },
+ {
+  "cpl": 17,
+  "filePath": "packages/odb/src/OdbConnection.ts",
+  "pos": 7523
+ },
+ {
+  "cpl": 18,
+  "filePath": "packages/odb/src/OdbConnection.ts",
+  "pos": 8545
+ },
+ {
+  "cpl": 245,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 2035
+ },
+ {
+  "cpl": 246,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 2376
+ },
+ {
+  "cpl": 247,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 2467
+ },
+ {
+  "cpl": 248,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 2566
+ },
+ {
+  "cpl": 84,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 2665
+ },
+ {
+  "cpl": 427,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 3043
+ },
+ {
+  "cpl": 428,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 3134
+ },
+ {
+  "cpl": 429,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 3233
+ },
+ {
+  "cpl": 430,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 3332
+ },
+ {
+  "cpl": 431,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 3424
+ },
+ {
+  "cpl": 432,
+  "filePath": "packages/odb/src/OdbContRef.ts",
+  "pos": 6230
+ },
+ {
+  "cpl": 593,
+  "filePath": "packages/odb/src/OdbGlobalStateReader.ts",
+  "pos": 1532
+ },
+ {
+  "cpl": 594,
+  "filePath": "packages/odb/src/OdbGlobalStateReader.ts",
+  "pos": 1999
+ },
+ {
+  "cpl": 21,
+  "filePath": "packages/odb/src/OdbLayer.ts",
+  "pos": 2284
+ },
+ {
+  "cpl": 442,
+  "filePath": "packages/odb/src/OdbObjectReader.ts",
+  "pos": 4659
+ },
+ {
+  "cpl": 599,
+  "filePath": "packages/odb/src/OdbObjectReader.ts",
+  "pos": 5094
+ },
+ {
+  "cpl": 443,
+  "filePath": "packages/odb/src/OdbObjectReader.ts",
+  "pos": 5497
+ },
+ {
+  "cpl": 601,
+  "filePath": "packages/odb/src/OdbPath.ts",
+  "pos": 2686
+ },
+ {
+  "cpl": 101,
+  "filePath": "packages/odb/src/OdbPathInfo.ts",
+  "pos": 4213
+ },
+ {
+  "cpl": 102,
+  "filePath": "packages/odb/src/OdbPathInfo.ts",
+  "pos": 4455
+ },
+ {
+  "cpl": 103,
+  "filePath": "packages/odb/src/OdbPathInfo.ts",
+  "pos": 4697
+ },
+ {
+  "cpl": 104,
+  "filePath": "packages/odb/src/OdbPathInfo.ts",
+  "pos": 5035
+ },
+ {
+  "cpl": 433,
+  "filePath": "packages/odb/src/OdbRuntimeMeta.ts",
+  "pos": 1821
+ },
+ {
+  "cpl": 434,
+  "filePath": "packages/odb/src/OdbSmStateTLookup.ts",
+  "pos": 1416
+ },
+ {
+  "cpl": 435,
+  "filePath": "packages/odb/src/OdbSmStateTLookup.ts",
+  "pos": 1864
+ },
+ {
+  "cpl": 436,
+  "filePath": "packages/odb/src/OdbSmStateTLookup.ts",
+  "pos": 1984
+ },
+ {
+  "cpl": 437,
+  "filePath": "packages/odb/src/OdbSmStateTLookup.ts",
+  "pos": 2183
+ },
+ {
+  "cpl": 438,
+  "filePath": "packages/odb/src/OdbSmStateTLookup.ts",
+  "pos": 2317
+ },
+ {
+  "cpl": 439,
+  "filePath": "packages/odb/src/OdbSmStateTLookup.ts",
+  "pos": 2368
+ },
+ {
+  "cpl": 440,
+  "filePath": "packages/odb/src/OdbTransaction.ts",
+  "pos": 4179
+ },
+ {
+  "cpl": 22,
+  "filePath": "packages/odb/src/OdbTransaction.ts",
+  "pos": 5353
+ },
+ {
+  "cpl": 23,
+  "filePath": "packages/odb/src/OdbTransaction.ts",
+  "pos": 5728
+ },
+ {
+  "cpl": 24,
+  "filePath": "packages/odb/src/OdbTransaction.ts",
+  "pos": 6933
+ },
+ {
+  "cpl": 290,
+  "filePath": "packages/odb/src/OdbTransaction.ts",
+  "pos": 9244
+ },
+ {
+  "cpl": 25,
+  "filePath": "packages/odb/src/OdbTransaction.ts",
+  "pos": 10205
+ },
+ {
+  "cpl": 37,
+  "filePath": "packages/odb/src/bug1.test.ts",
+  "pos": 714
+ },
+ {
+  "cpl": 191,
+  "filePath": "packages/odb/src/bug1.test.ts",
+  "pos": 840
+ },
+ {
+  "cpl": 156,
+  "filePath": "packages/odb/src/bug1.test.ts",
+  "pos": 1046
+ },
+ {
+  "cpl": 595,
+  "filePath": "packages/odb/src/examples_etc/computed-example.ts",
+  "pos": 879
+ },
+ {
+  "cpl": 596,
+  "filePath": "packages/odb/src/examples_etc/computed-example.ts",
+  "pos": 1285
+ },
+ {
+  "cpl": 589,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 1791
+ },
+ {
+  "cpl": 67,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 2022
+ },
+ {
+  "cpl": 68,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 2409
+ },
+ {
+  "cpl": 205,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 2539
+ },
+ {
+  "cpl": 206,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 5446
+ },
+ {
+  "cpl": 223,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 5706
+ },
+ {
+  "cpl": 224,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 7117
+ },
+ {
+  "cpl": 163,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 7759
+ },
+ {
+  "cpl": 164,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 7986
+ },
+ {
+  "cpl": 173,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 8116
+ },
+ {
+  "cpl": 174,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 8896
+ },
+ {
+  "cpl": 184,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 9095
+ },
+ {
+  "cpl": 57,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 9390
+ },
+ {
+  "cpl": 58,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 9841
+ },
+ {
+  "cpl": 186,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 10057
+ },
+ {
+  "cpl": 63,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 10190
+ },
+ {
+  "cpl": 64,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 10326
+ },
+ {
+  "cpl": 65,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 10458
+ },
+ {
+  "cpl": 86,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 10590
+ },
+ {
+  "cpl": 87,
+  "filePath": "packages/odb/src/layered_stateManager.test.ts",
+  "pos": 11693
+ },
+ {
+  "cpl": 105,
+  "filePath": "packages/odb/src/odbBaseOnCreateInstance.ts",
+  "pos": 1341
+ },
+ {
+  "cpl": 1053,
+  "filePath": "packages/odb/src/odbBaseOnCreateInstance.ts",
+  "pos": 1925
+ },
+ {
+  "cpl": 1054,
+  "filePath": "packages/odb/src/odbBaseOnCreateInstance.ts",
+  "pos": 2849
+ },
+ {
+  "cpl": 1055,
+  "filePath": "packages/odb/src/odbBaseOnCreateInstance.ts",
+  "pos": 3239
+ },
+ {
+  "cpl": 1056,
+  "filePath": "packages/odb/src/odbBaseOnCreateInstance.ts",
+  "pos": 3756
+ },
+ {
+  "cpl": 1057,
+  "filePath": "packages/odb/src/odbBaseOnCreateInstance.ts",
+  "pos": 3965
+ },
+ {
+  "cpl": 26,
+  "filePath": "packages/odb/src/odbExec.ts",
+  "pos": 1120
+ },
+ {
+  "cpl": 344,
+  "filePath": "packages/odb/src/odbObject.ts",
+  "pos": 777
+ },
+ {
+  "cpl": 69,
+  "filePath": "packages/odb/src/test/setupTestOdb.ts",
+  "pos": 1586
+ },
+ {
+  "cpl": 591,
+  "filePath": "packages/odb/src/test/setupTestOdb.ts",
+  "pos": 1864
+ },
+ {
+  "cpl": 592,
+  "filePath": "packages/odb/src/test/setupTestOdb.ts",
+  "pos": 2839
+ },
+ {
+  "cpl": 1073,
+  "filePath": "packages/odb/src/views.test.ts",
+  "pos": 1168
+ },
+ {
+  "cpl": 1074,
+  "filePath": "packages/odb/src/views.test.ts",
+  "pos": 1473
+ },
+ {
+  "cpl": 330,
+  "filePath": "packages/persistent_containers/src/LbContFuncset.ts",
+  "pos": 2470
+ },
+ {
+  "cpl": 331,
+  "filePath": "packages/persistent_containers/src/LbEjectedData.ts",
+  "pos": 1473
+ },
+ {
+  "cpl": 332,
+  "filePath": "packages/persistent_containers/src/LbEjectedData.ts",
+  "pos": 1771
+ },
+ {
+  "cpl": 333,
+  "filePath": "packages/persistent_containers/src/LbEjectedData.ts",
+  "pos": 2381
+ },
+ {
+  "cpl": 259,
+  "filePath": "packages/persistent_containers/src/LbEjectedData.ts",
+  "pos": 2826
+ },
+ {
+  "cpl": 260,
+  "filePath": "packages/persistent_containers/src/LbNode.ts",
+  "pos": 1609
+ },
+ {
+  "cpl": 261,
+  "filePath": "packages/persistent_containers/src/LbNode.ts",
+  "pos": 2692
+ },
+ {
+  "cpl": 262,
+  "filePath": "packages/persistent_containers/src/LbPage.ts",
+  "pos": 2561
+ },
+ {
+  "cpl": 263,
+  "filePath": "packages/persistent_containers/src/LbPage.ts",
+  "pos": 3270
+ },
+ {
+  "cpl": 266,
+  "filePath": "packages/persistent_containers/src/LbValueOrEjected.ts",
+  "pos": 1559
+ },
+ {
+  "cpl": 267,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 1113
+ },
+ {
+  "cpl": 268,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 1596
+ },
+ {
+  "cpl": 269,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 1931
+ },
+ {
+  "cpl": 270,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 2633
+ },
+ {
+  "cpl": 271,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 3128
+ },
+ {
+  "cpl": 272,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 3698
+ },
+ {
+  "cpl": 146,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 4271
+ },
+ {
+  "cpl": 147,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 4813
+ },
+ {
+  "cpl": 148,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 5426
+ },
+ {
+  "cpl": 149,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsage.test.ts",
+  "pos": 5824
+ },
+ {
+  "cpl": 273,
+  "filePath": "packages/persistent_containers/src/ObjectLikeUsageEjected.test.ts",
+  "pos": 1650
+ },
+ {
+  "cpl": 209,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 1291
+ },
+ {
+  "cpl": 274,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 1471
+ },
+ {
+  "cpl": 275,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 1723
+ },
+ {
+  "cpl": 276,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 1918
+ },
+ {
+  "cpl": 227,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 2189
+ },
+ {
+  "cpl": 159,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 2407
+ },
+ {
+  "cpl": 177,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 2685
+ },
+ {
+  "cpl": 277,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 3068
+ },
+ {
+  "cpl": 278,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 3599
+ },
+ {
+  "cpl": 279,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 3925
+ },
+ {
+  "cpl": 280,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 4533
+ },
+ {
+  "cpl": 281,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 4886
+ },
+ {
+  "cpl": 282,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 5742
+ },
+ {
+  "cpl": 207,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 5927
+ },
+ {
+  "cpl": 225,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 6238
+ },
+ {
+  "cpl": 155,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 7088
+ },
+ {
+  "cpl": 157,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 7432
+ },
+ {
+  "cpl": 175,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 7617
+ },
+ {
+  "cpl": 283,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 7886
+ },
+ {
+  "cpl": 214,
+  "filePath": "packages/persistent_containers/src/PersistentObjStateReader.ts",
+  "pos": 7970
+ },
+ {
+  "cpl": 88,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 3245
+ },
+ {
+  "cpl": 289,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 5129
+ },
+ {
+  "cpl": 284,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 5819
+ },
+ {
+  "cpl": 285,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 8482
+ },
+ {
+  "cpl": 286,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 9133
+ },
+ {
+  "cpl": 287,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 13106
+ },
+ {
+  "cpl": 1020,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 14528
+ },
+ {
+  "cpl": 1021,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 15503
+ },
+ {
+  "cpl": 150,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 15666
+ },
+ {
+  "cpl": 151,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 15998
+ },
+ {
+  "cpl": 158,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 16011
+ },
+ {
+  "cpl": 152,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 17994
+ },
+ {
+  "cpl": 153,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 20715
+ },
+ {
+  "cpl": 1022,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 21415
+ },
+ {
+  "cpl": 1023,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 22145
+ },
+ {
+  "cpl": 27,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 22397
+ },
+ {
+  "cpl": 48,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 22609
+ },
+ {
+  "cpl": 1024,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 22793
+ },
+ {
+  "cpl": 213,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 22944
+ },
+ {
+  "cpl": 72,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 23591
+ },
+ {
+  "cpl": 154,
+  "filePath": "packages/persistent_containers/src/PersistentObjStoreImpl.ts",
+  "pos": 24259
+ },
+ {
+  "cpl": 1058,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 1570
+ },
+ {
+  "cpl": 1059,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 1866
+ },
+ {
+  "cpl": 1060,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 2173
+ },
+ {
+  "cpl": 335,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 2618
+ },
+ {
+  "cpl": 336,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 2935
+ },
+ {
+  "cpl": 337,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 3296
+ },
+ {
+  "cpl": 338,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 3582
+ },
+ {
+  "cpl": 339,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 4569
+ },
+ {
+  "cpl": 340,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 4884
+ },
+ {
+  "cpl": 341,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 5066
+ },
+ {
+  "cpl": 342,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 5331
+ },
+ {
+  "cpl": 343,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/RuntimeObjStateReader.ts",
+  "pos": 5418
+ },
+ {
+  "cpl": 30,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 866
+ },
+ {
+  "cpl": 31,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 1202
+ },
+ {
+  "cpl": 32,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 1299
+ },
+ {
+  "cpl": 33,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 1388
+ },
+ {
+  "cpl": 34,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/getRtValueTools.ts",
+  "pos": 1449
+ },
+ {
+  "cpl": 1040,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 1169
+ },
+ {
+  "cpl": 1041,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 1518
+ },
+ {
+  "cpl": 1042,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 2075
+ },
+ {
+  "cpl": 1043,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 2632
+ },
+ {
+  "cpl": 1044,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 3106
+ },
+ {
+  "cpl": 1045,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 3588
+ },
+ {
+  "cpl": 1046,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 4157
+ },
+ {
+  "cpl": 1047,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 4567
+ },
+ {
+  "cpl": 1048,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 5066
+ },
+ {
+  "cpl": 1049,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 5539
+ },
+ {
+  "cpl": 1050,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 6033
+ },
+ {
+  "cpl": 1051,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 6520
+ },
+ {
+  "cpl": 1052,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.test.ts",
+  "pos": 6817
+ },
+ {
+  "cpl": 35,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 2059
+ },
+ {
+  "cpl": 36,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 2647
+ },
+ {
+  "cpl": 112,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 3180
+ },
+ {
+  "cpl": 113,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 3470
+ },
+ {
+  "cpl": 114,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 5221
+ },
+ {
+  "cpl": 115,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_array.ts",
+  "pos": 5271
+ },
+ {
+  "cpl": 165,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.test.ts",
+  "pos": 1096
+ },
+ {
+  "cpl": 166,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.test.ts",
+  "pos": 1488
+ },
+ {
+  "cpl": 167,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.test.ts",
+  "pos": 2526
+ },
+ {
+  "cpl": 168,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.test.ts",
+  "pos": 3172
+ },
+ {
+  "cpl": 169,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.test.ts",
+  "pos": 3807
+ },
+ {
+  "cpl": 170,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.test.ts",
+  "pos": 4462
+ },
+ {
+  "cpl": 171,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.test.ts",
+  "pos": 5107
+ },
+ {
+  "cpl": 172,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.test.ts",
+  "pos": 5566
+ },
+ {
+  "cpl": 116,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 2165
+ },
+ {
+  "cpl": 117,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 3940
+ },
+ {
+  "cpl": 118,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4218
+ },
+ {
+  "cpl": 119,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4576
+ },
+ {
+  "cpl": 120,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4708
+ },
+ {
+  "cpl": 121,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4865
+ },
+ {
+  "cpl": 122,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 4993
+ },
+ {
+  "cpl": 123,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 5126
+ },
+ {
+  "cpl": 124,
+  "filePath": "packages/persistent_containers/src/RuntimeObjStore/rt_action_processors/rt_js_object.ts",
+  "pos": 5177
+ },
+ {
+  "cpl": 1075,
+  "filePath": "packages/persistent_containers/src/action_processors/BPlusTree/__tests__/BPlusTree.test.ts",
+  "pos": 2671
+ },
+ {
+  "cpl": 1076,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.test.ts",
+  "pos": 1041
+ },
+ {
+  "cpl": 1077,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.test.ts",
+  "pos": 1427
+ },
+ {
+  "cpl": 1078,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.test.ts",
+  "pos": 2509
+ },
+ {
+  "cpl": 1079,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.test.ts",
+  "pos": 3126
+ },
+ {
+  "cpl": 1080,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.test.ts",
+  "pos": 3735
+ },
+ {
+  "cpl": 1081,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.test.ts",
+  "pos": 4364
+ },
+ {
+  "cpl": 1082,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.test.ts",
+  "pos": 4983
+ },
+ {
+  "cpl": 1083,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.test.ts",
+  "pos": 5382
+ },
+ {
+  "cpl": 1084,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.ts",
+  "pos": 920
+ },
+ {
+  "cpl": 1085,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.ts",
+  "pos": 1063
+ },
+ {
+  "cpl": 1086,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.ts",
+  "pos": 1197
+ },
+ {
+  "cpl": 1087,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.ts",
+  "pos": 1339
+ },
+ {
+  "cpl": 1088,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.ts",
+  "pos": 1688
+ },
+ {
+  "cpl": 1089,
+  "filePath": "packages/persistent_containers/src/action_processors/bpt.ts",
+  "pos": 1962
+ },
+ {
+  "cpl": 192,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 959
+ },
+ {
+  "cpl": 193,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 1337
+ },
+ {
+  "cpl": 194,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 1949
+ },
+ {
+  "cpl": 195,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 2548
+ },
+ {
+  "cpl": 196,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 3051
+ },
+ {
+  "cpl": 197,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 3562
+ },
+ {
+  "cpl": 198,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 4078
+ },
+ {
+  "cpl": 199,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 4513
+ },
+ {
+  "cpl": 200,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 5045
+ },
+ {
+  "cpl": 201,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 5547
+ },
+ {
+  "cpl": 202,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 6070
+ },
+ {
+  "cpl": 203,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 6586
+ },
+ {
+  "cpl": 204,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.test.ts",
+  "pos": 6896
+ },
+ {
+  "cpl": 1090,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.ts",
+  "pos": 3638
+ },
+ {
+  "cpl": 208,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.ts",
+  "pos": 3928
+ },
+ {
+  "cpl": 210,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.ts",
+  "pos": 5308
+ },
+ {
+  "cpl": 212,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.ts",
+  "pos": 5427
+ },
+ {
+  "cpl": 308,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.ts",
+  "pos": 5775
+ },
+ {
+  "cpl": 309,
+  "filePath": "packages/persistent_containers/src/action_processors/js_array.ts",
+  "pos": 6053
+ },
+ {
+  "cpl": 310,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 963
+ },
+ {
+  "cpl": 216,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 1384
+ },
+ {
+  "cpl": 217,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 2615
+ },
+ {
+  "cpl": 218,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 3294
+ },
+ {
+  "cpl": 311,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 3958
+ },
+ {
+  "cpl": 312,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 4642
+ },
+ {
+  "cpl": 221,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 5316
+ },
+ {
+  "cpl": 313,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 6008
+ },
+ {
+  "cpl": 314,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 7469
+ },
+ {
+  "cpl": 315,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.test.ts",
+  "pos": 7935
+ },
+ {
+  "cpl": 316,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 2460
+ },
+ {
+  "cpl": 317,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 4488
+ },
+ {
+  "cpl": 226,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 4766
+ },
+ {
+  "cpl": 228,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 5272
+ },
+ {
+  "cpl": 229,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 5404
+ },
+ {
+  "cpl": 230,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 5561
+ },
+ {
+  "cpl": 231,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 5689
+ },
+ {
+  "cpl": 232,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 5822
+ },
+ {
+  "cpl": 233,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 5940
+ },
+ {
+  "cpl": 318,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 6289
+ },
+ {
+  "cpl": 319,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object.ts",
+  "pos": 6570
+ },
+ {
+  "cpl": 320,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object_w_MessagePack.test.ts",
+  "pos": 2211
+ },
+ {
+  "cpl": 321,
+  "filePath": "packages/persistent_containers/src/action_processors/js_object_w_MessagePack.test.ts",
+  "pos": 2898
+ },
+ {
+  "cpl": 322,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 897
+ },
+ {
+  "cpl": 323,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 1465
+ },
+ {
+  "cpl": 324,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 1698
+ },
+ {
+  "cpl": 325,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 2214
+ },
+ {
+  "cpl": 326,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 2455
+ },
+ {
+  "cpl": 327,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 2637
+ },
+ {
+  "cpl": 328,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 2797
+ },
+ {
+  "cpl": 329,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 3331
+ },
+ {
+  "cpl": 187,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 3706
+ },
+ {
+  "cpl": 188,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 3784
+ },
+ {
+  "cpl": 189,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 3871
+ },
+ {
+  "cpl": 190,
+  "filePath": "packages/persistent_containers/src/getValueTools.ts",
+  "pos": 3930
+ },
+ {
+  "cpl": 264,
+  "filePath": "packages/persistent_containers/src/lbSerializerPlugin.ts",
+  "pos": 2111
+ },
+ {
+  "cpl": 265,
+  "filePath": "packages/persistent_containers/src/lbSerializerPlugin.ts",
+  "pos": 2426
+ },
+ {
+  "cpl": 349,
+  "filePath": "packages/persistent_containers/src/start.ts",
+  "pos": 80
+ },
+ {
+  "cpl": 345,
+  "filePath": "packages/persistent_containers/src/test/setupTest.ts",
+  "pos": 2800
+ },
+ {
+  "cpl": 334,
+  "filePath": "packages/sqlite_keyvalue_storage/src/SqliteKeyValueStorage.ts",
+  "pos": 12049
+ },
+ {
+  "cpl": 1061,
+  "filePath": "packages/sqlite_keyvalue_storage/src/inprint/main.ts",
+  "pos": 887
+ },
+ {
+  "cpl": 350,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 2739
+ },
+ {
+  "cpl": 351,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 3641
+ },
+ {
+  "cpl": 352,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 4034
+ },
+ {
+  "cpl": 353,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 4566
+ },
+ {
+  "cpl": 354,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 5274
+ },
+ {
+  "cpl": 355,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 6268
+ },
+ {
+  "cpl": 356,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 6610
+ },
+ {
+  "cpl": 357,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 7691
+ },
+ {
+  "cpl": 358,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 8111
+ },
+ {
+  "cpl": 359,
+  "filePath": "packages/ydb_better_sqlite/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 9691
+ },
+ {
+  "cpl": 360,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 2916
+ },
+ {
+  "cpl": 361,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 3910
+ },
+ {
+  "cpl": 362,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 4331
+ },
+ {
+  "cpl": 363,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 4923
+ },
+ {
+  "cpl": 364,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 5534
+ },
+ {
+  "cpl": 365,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 6597
+ },
+ {
+  "cpl": 366,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 6967
+ },
+ {
+  "cpl": 367,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 8160
+ },
+ {
+  "cpl": 368,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 8620
+ },
+ {
+  "cpl": 369,
+  "filePath": "packages/ydb_better_sqlite_stub/src/ExternalStorage_BetterSqlite.test.ts",
+  "pos": 10352
+ },
+ {
+  "cpl": 423,
+  "filePath": "packages/ydb_postgres/src/PostgresStmt.ts",
+  "pos": 2041
+ },
+ {
+  "cpl": 370,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 2968
+ },
+ {
+  "cpl": 371,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 3951
+ },
+ {
+  "cpl": 372,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 4372
+ },
+ {
+  "cpl": 373,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 4964
+ },
+ {
+  "cpl": 374,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 5578
+ },
+ {
+  "cpl": 375,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 6753
+ },
+ {
+  "cpl": 376,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 7123
+ },
+ {
+  "cpl": 377,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 8316
+ },
+ {
+  "cpl": 378,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 8777
+ },
+ {
+  "cpl": 379,
+  "filePath": "packages/ydb_sqlite/src/ExternalStorage_Sqlite.test.ts",
+  "pos": 10510
+ },
+ {
+  "cpl": 424,
+  "filePath": "packages/ydb_sqlite/src/SqliteStmt.ts",
+  "pos": 5257
+ },
+ {
+  "cpl": 160,
+  "filePath": "packages/ydomain_client/src/HierarchyController.ts",
+  "pos": 620
+ },
+ {
+  "cpl": 176,
+  "filePath": "packages/ydomain_client/src/HierarchyController.ts",
+  "pos": 950
+ },
+ {
+  "cpl": 603,
+  "filePath": "packages/ydomain_client/src/client.ts",
+  "pos": 2533
+ },
+ {
+  "cpl": 604,
+  "filePath": "packages/ydomain_client/src/client.ts",
+  "pos": 2796
+ },
+ {
+  "cpl": 605,
+  "filePath": "packages/ydomain_client/src/client.ts",
+  "pos": 4970
+ },
+ {
+  "cpl": 346,
+  "filePath": "packages/ydomain_client/src/client.ts",
+  "pos": 5180
+ },
+ {
+  "cpl": 347,
+  "filePath": "packages/ydomain_client/src/client.ts",
+  "pos": 6154
+ },
+ {
+  "cpl": 380,
+  "filePath": "packages/ydomain_client/src/setupTestClient.ts",
+  "pos": 523
+ },
+ {
+  "cpl": 137,
+  "filePath": "packages/ydomain_client/src/useObserver.tsx",
+  "pos": 1640
+ },
+ {
+  "cpl": 381,
+  "filePath": "packages/ydomain_common/src/common_domains/session.ts",
+  "pos": 1141
+ },
+ {
+  "cpl": 382,
+  "filePath": "packages/ydomain_common/src/domain/DataSide.ts",
+  "pos": 1037
+ },
+ {
+  "cpl": 383,
+  "filePath": "packages/ydomain_common/src/domain/DataSide.ts",
+  "pos": 1399
+ },
+ {
+  "cpl": 384,
+  "filePath": "packages/ydomain_common/src/domain/DataSide.ts",
+  "pos": 1450
+ },
+ {
+  "cpl": 606,
+  "filePath": "packages/ydomain_common/src/domain_action_channel/DomainActionChannel.ts",
+  "pos": 2171
+ },
+ {
+  "cpl": 385,
+  "filePath": "packages/ydomain_common/src/domain_action_channel/OdbChannel.ts",
+  "pos": 1497
+ },
+ {
+  "cpl": 386,
+  "filePath": "packages/ydomain_common/src/domain_action_channel/RouterV1Channel.ts",
+  "pos": 1606
+ },
+ {
+  "cpl": 387,
+  "filePath": "packages/ydomain_common/src/domain_action_channel/RouterV1Channel.ts",
+  "pos": 2124
+ },
+ {
+  "cpl": 388,
+  "filePath": "packages/ydomain_common/src/domain_action_channel/SendToClientsChannel.ts",
+  "pos": 2084
+ },
+ {
+  "cpl": 1068,
+  "filePath": "packages/ydomain_common/src/domain_action_channel/SendToClientsChannel.ts",
+  "pos": 2295
+ },
+ {
+  "cpl": 389,
+  "filePath": "packages/ydomain_common/src/domain_action_channel/SendToServerChannel.ts",
+  "pos": 2013
+ },
+ {
+  "cpl": 1065,
+  "filePath": "packages/ydomain_common/src/domain_action_channel/SendToServerChannel.ts",
+  "pos": 2611
+ },
+ {
+  "cpl": 348,
+  "filePath": "packages/ydomain_meta/src/ContTypeCode.ts",
+  "pos": 1409
+ },
+ {
+  "cpl": 239,
+  "filePath": "packages/ydomain_meta/src/ContTypeCode.ts",
+  "pos": 1837
+ },
+ {
+  "cpl": 240,
+  "filePath": "packages/ydomain_meta/src/ContTypeCode.ts",
+  "pos": 4389
+ },
+ {
+  "cpl": 241,
+  "filePath": "packages/ydomain_meta/src/ContTypeCode.ts",
+  "pos": 5798
+ },
+ {
+  "cpl": 215,
+  "filePath": "packages/ydomain_meta/src/ContTypeCode.ts",
+  "pos": 5883
+ },
+ {
+  "cpl": 456,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 1691
+ },
+ {
+  "cpl": 242,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 2151
+ },
+ {
+  "cpl": 243,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 2983
+ },
+ {
+  "cpl": 244,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 3619
+ },
+ {
+  "cpl": 602,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 3978
+ },
+ {
+  "cpl": 1064,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 4338
+ },
+ {
+  "cpl": 10,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 6168
+ },
+ {
+  "cpl": 11,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 8261
+ },
+ {
+  "cpl": 457,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 8402
+ },
+ {
+  "cpl": 458,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 8821
+ },
+ {
+  "cpl": 178,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 9214
+ },
+ {
+  "cpl": 179,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 9562
+ },
+ {
+  "cpl": 180,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 10276
+ },
+ {
+  "cpl": 460,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 10658
+ },
+ {
+  "cpl": 461,
+  "filePath": "packages/ydomain_meta/src/MetaRoot.ts",
+  "pos": 11543
+ },
+ {
+  "cpl": 390,
+  "filePath": "packages/ydomain_meta/src/getChildTypeMeta.ts",
+  "pos": 1115
+ },
+ {
+  "cpl": 181,
+  "filePath": "packages/ydomain_meta/src/getChildTypeMeta.ts",
+  "pos": 1409
+ },
+ {
+  "cpl": 182,
+  "filePath": "packages/ydomain_meta/src/getChildTypeMeta.ts",
+  "pos": 1683
+ },
+ {
+  "cpl": 392,
+  "filePath": "packages/ydomain_meta/src/getChildTypeMeta.ts",
+  "pos": 2540
+ },
+ {
+  "cpl": 393,
+  "filePath": "packages/ydomain_meta/src/getChildTypeMeta.ts",
+  "pos": 2669
+ },
+ {
+  "cpl": 394,
+  "filePath": "packages/ydomain_meta/src/getChildTypeMeta.ts",
+  "pos": 2794
+ },
+ {
+  "cpl": 395,
+  "filePath": "packages/ydomain_meta/src/getFieldMeta.ts",
+  "pos": 824
+ },
+ {
+  "cpl": 396,
+  "filePath": "packages/ydomain_meta/src/getFieldMeta.ts",
+  "pos": 1599
+ },
+ {
+  "cpl": 397,
+  "filePath": "packages/ydomain_meta/src/getFieldMeta.ts",
+  "pos": 1726
+ },
+ {
+  "cpl": 455,
+  "filePath": "packages/ydomain_meta/src/getFieldMeta.ts",
+  "pos": 1862
+ },
+ {
+  "cpl": 462,
+  "filePath": "packages/ydomain_meta/src/start.ts",
+  "pos": 57
+ },
+ {
+  "cpl": 19,
+  "filePath": "packages/ydomain_server/src/HierarchyController.ts",
+  "pos": 719
+ },
+ {
+  "cpl": 20,
+  "filePath": "packages/ydomain_server/src/HierarchyController.ts",
+  "pos": 950
+ },
+ {
+  "cpl": 1063,
+  "filePath": "packages/ydomain_server/src/server.ts",
+  "pos": 2388
+ },
+ {
+  "cpl": 1066,
+  "filePath": "packages/ydomain_server/src/server.ts",
+  "pos": 2594
+ },
+ {
+  "cpl": 463,
+  "filePath": "packages/ydomain_server/src/server.ts",
+  "pos": 4993
+ },
+ {
+  "cpl": 1091,
+  "filePath": "packages/ydomain_server/src/server.ts",
+  "pos": 6304
+ },
+ {
+  "cpl": 183,
+  "filePath": "packages/ydomain_server/src/server.ts",
+  "pos": 6514
+ },
+ {
+  "cpl": 4,
+  "filePath": "packages/ydomain_server/src/server.ts",
+  "pos": 7488
+ },
+ {
+  "cpl": 464,
+  "filePath": "packages/ydomain_server/src/setupTestServer.ts",
+  "pos": 641
+ },
+ {
+  "cpl": 3,
+  "filePath": "packages/yhttp_api/src/HttpApiDefinition.ts",
+  "pos": 2348
+ },
+ {
+  "cpl": 615,
+  "filePath": "packages/yhttp_api/src/makeHttpRequestData.ts",
+  "pos": 607
+ },
+ {
+  "cpl": 138,
+  "filePath": "packages/yhttp_api_express/src/implementHttpApi.ts",
+  "pos": 1749
+ },
+ {
+  "cpl": 465,
+  "filePath": "packages/yintervals/src/IntervalArithmetic.test.ts",
+  "pos": 18884
+ },
+ {
+  "cpl": 466,
+  "filePath": "packages/yobservable/src/observableFromCursor.ts",
+  "pos": 1028
+ },
+ {
+  "cpl": 467,
+  "filePath": "packages/yserializer/src/Serializer.ts",
+  "pos": 1823
+ },
+ {
+  "cpl": 468,
+  "filePath": "packages/yserializer/src/Serializer.ts",
+  "pos": 2023
+ },
+ {
+  "cpl": 398,
+  "filePath": "packages/yserializer/src/Serializer.ts",
+  "pos": 2563
+ },
+ {
+  "cpl": 399,
+  "filePath": "packages/yserializer/src/Serializer.ts",
+  "pos": 4257
+ },
+ {
+  "cpl": 288,
+  "filePath": "packages/yserializer/src/Serializer.ts",
+  "pos": 5634
+ },
+ {
+  "cpl": 1015,
+  "filePath": "packages/ytransport_callback/src/index_old.ts",
+  "pos": 843
+ },
+ {
+  "cpl": 469,
+  "filePath": "packages/ytransport_callback/src/index_old.ts",
+  "pos": 1412
+ },
+ {
+  "cpl": 1016,
+  "filePath": "packages/ytransport_callback/src/index_old.ts",
+  "pos": 2621
+ },
+ {
+  "cpl": 403,
+  "filePath": "packages/ytransport_client/src/YtransportClient.ts",
+  "pos": 9726
+ },
+ {
+  "cpl": 578,
+  "filePath": "packages/ytransport_client/src/YtransportClient.ts",
+  "pos": 9811
+ },
+ {
+  "cpl": 404,
+  "filePath": "packages/ytransport_client/src/YtransportClient.ts",
+  "pos": 12788
+ },
+ {
+  "cpl": 470,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 4054
+ },
+ {
+  "cpl": 521,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 4889
+ },
+ {
+  "cpl": 522,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 5095
+ },
+ {
+  "cpl": 523,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 5308
+ },
+ {
+  "cpl": 448,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 6280
+ },
+ {
+  "cpl": 524,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 6444
+ },
+ {
+  "cpl": 444,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 7471
+ },
+ {
+  "cpl": 449,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 8443
+ },
+ {
+  "cpl": 471,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 9396
+ },
+ {
+  "cpl": 446,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 10407
+ },
+ {
+  "cpl": 447,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 11651
+ },
+ {
+  "cpl": 520,
+  "filePath": "packages/ytransport_client_with_auth/src/YtransportClientWithAuth.ts",
+  "pos": 13106
+ },
+ {
+  "cpl": 472,
+  "filePath": "packages/ytransport_common/src/ApiDefinition.ts",
+  "pos": 2479
+ },
+ {
+  "cpl": 473,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 5420
+ },
+ {
+  "cpl": 590,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 6813
+ },
+ {
+  "cpl": 405,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 8049
+ },
+ {
+  "cpl": 406,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 8158
+ },
+ {
+  "cpl": 407,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 9190
+ },
+ {
+  "cpl": 408,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 11060
+ },
+ {
+  "cpl": 474,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 11527
+ },
+ {
+  "cpl": 537,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 12763
+ },
+ {
+  "cpl": 538,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 13169
+ },
+ {
+  "cpl": 539,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 13697
+ },
+ {
+  "cpl": 540,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 13757
+ },
+ {
+  "cpl": 541,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 14264
+ },
+ {
+  "cpl": 542,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 14986
+ },
+ {
+  "cpl": 543,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 15692
+ },
+ {
+  "cpl": 544,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 16224
+ },
+ {
+  "cpl": 545,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 17393
+ },
+ {
+  "cpl": 546,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 21216
+ },
+ {
+  "cpl": 23000001,
+  "filePath": "packages/ytransport_common/src/Ysocket.ts",
+  "pos": 21433
+ },
+ {
+  "cpl": 475,
+  "filePath": "packages/ytransport_common/src/YtransportService.ts",
+  "pos": 3505
+ },
+ {
+  "cpl": 476,
+  "filePath": "packages/ytransport_common/src/YtransportService.ts",
+  "pos": 3573
+ },
+ {
+  "cpl": 477,
+  "filePath": "packages/ytransport_common/src/YtransportService.ts",
+  "pos": 4254
+ },
+ {
+  "cpl": 1018,
+  "filePath": "packages/ytransport_observable/src/observable.ts",
+  "pos": 3976
+ },
+ {
+  "cpl": 1019,
+  "filePath": "packages/ytransport_observable/src/observable.ts",
+  "pos": 5984
+ },
+ {
+  "cpl": 478,
+  "filePath": "packages/ytransport_server/src/YtransportServer.ts",
+  "pos": 6524
+ },
+ {
+  "cpl": 547,
+  "filePath": "packages/ytransport_server/src/YtransportServer.ts",
+  "pos": 9147
+ },
+ {
+  "cpl": 548,
+  "filePath": "packages/ytransport_server/src/YtransportServer.ts",
+  "pos": 10938
+ },
+ {
+  "cpl": 549,
+  "filePath": "packages/ytransport_server/src/YtransportServer.ts",
+  "pos": 12669
+ },
+ {
+  "cpl": 139,
+  "filePath": "packages/ytransport_server/src/YtransportServer.ts",
+  "pos": 15453
+ },
+ {
+  "cpl": 425,
+  "filePath": "packages/ytransport_server_with_auth/src/AuthStorageDb.ts",
+  "pos": 8585
+ },
+ {
+  "cpl": 426,
+  "filePath": "packages/ytransport_server_with_auth/src/AuthStorageDb.ts",
+  "pos": 9735
+ },
+ {
+  "cpl": 564,
+  "filePath": "packages/ytransport_server_with_auth/src/AuthStorageDb.ts",
+  "pos": 10153
+ },
+ {
+  "cpl": 565,
+  "filePath": "packages/ytransport_server_with_auth/src/AuthStorageDb.ts",
+  "pos": 11673
+ },
+ {
+  "cpl": 566,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 4273
+ },
+ {
+  "cpl": 568,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 4628
+ },
+ {
+  "cpl": 479,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 4793
+ },
+ {
+  "cpl": 480,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 5814
+ },
+ {
+  "cpl": 569,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 5976
+ },
+ {
+  "cpl": 451,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 6743
+ },
+ {
+  "cpl": 1092,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 7356
+ },
+ {
+  "cpl": 570,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 7714
+ },
+ {
+  "cpl": 481,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 8773
+ },
+ {
+  "cpl": 576,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 9225
+ },
+ {
+  "cpl": 567,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 9377
+ },
+ {
+  "cpl": 452,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 10019
+ },
+ {
+  "cpl": 482,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 10164
+ },
+ {
+  "cpl": 483,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 10326
+ },
+ {
+  "cpl": 453,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 11120
+ },
+ {
+  "cpl": 249,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 11188
+ },
+ {
+  "cpl": 484,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 11342
+ },
+ {
+  "cpl": 454,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 12046
+ },
+ {
+  "cpl": 485,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 12267
+ },
+ {
+  "cpl": 577,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 12904
+ },
+ {
+  "cpl": 307,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 13626
+ },
+ {
+  "cpl": 571,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 14111
+ },
+ {
+  "cpl": 250,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 14425
+ },
+ {
+  "cpl": 588,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 15364
+ },
+ {
+  "cpl": 572,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 15740
+ },
+ {
+  "cpl": 251,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 16043
+ },
+ {
+  "cpl": 252,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 16575
+ },
+ {
+  "cpl": 573,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 16716
+ },
+ {
+  "cpl": 253,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 17012
+ },
+ {
+  "cpl": 254,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 17515
+ },
+ {
+  "cpl": 574,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 17658
+ },
+ {
+  "cpl": 255,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 17986
+ },
+ {
+  "cpl": 256,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 18520
+ },
+ {
+  "cpl": 575,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 18665
+ },
+ {
+  "cpl": 257,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 18992
+ },
+ {
+  "cpl": 258,
+  "filePath": "packages/ytransport_server_with_auth/src/YtransportServerWithAuth.ts",
+  "pos": 19980
+ },
+ {
+  "cpl": 617,
+  "filePath": "packages/ytransport_tests/src/startTestClient.ts",
+  "pos": 997
+ },
+ {
+  "cpl": 616,
+  "filePath": "packages/ytransport_tests/src/startTestServer.ts",
+  "pos": 2162
+ },
+ {
+  "cpl": 618,
+  "filePath": "packages/ytransport_tests/src/transport.test.ts",
+  "pos": 2200
+ },
+ {
+  "cpl": 619,
+  "filePath": "packages/ytransport_tests/src/transport.test.ts",
+  "pos": 5183
+ },
+ {
+  "cpl": 140,
+  "filePath": "packages/ytransport_tests/src/transportCallback.test.ts",
+  "pos": 1017
+ },
+ {
+  "cpl": 141,
+  "filePath": "packages/ytransport_tests/src/transportCallback.test.ts",
+  "pos": 4193
+ },
+ {
+  "cpl": 142,
+  "filePath": "packages/ytransport_tests/src/transportCallback.test.ts",
+  "pos": 4372
+ },
+ {
+  "cpl": 143,
+  "filePath": "packages/ytransport_tests/src/transportCallback.test.ts",
+  "pos": 4461
+ },
+ {
+  "cpl": 144,
+  "filePath": "packages/ytransport_tests/src/transportObserver.test.ts",
+  "pos": 1249
+ },
+ {
+  "cpl": 145,
+  "filePath": "packages/ytransport_tests/src/transportObserver.test.ts",
+  "pos": 3645
+ },
+ {
+  "cpl": 607,
+  "filePath": "packages/ytransport_tests/src/transportObserver.test.ts",
+  "pos": 4247
+ },
+ {
+  "cpl": 492,
+  "filePath": "packages/ytransport_tests/src/transportObserver.test.ts",
+  "pos": 4430
+ },
+ {
+  "cpl": 493,
+  "filePath": "packages/ytransport_tests/src/transportObserver.test.ts",
+  "pos": 7709
+ },
+ {
+  "cpl": 608,
+  "filePath": "packages/ytransport_tests/src/transport_with_auth.test.ts",
+  "pos": 2377
+ },
+ {
+  "cpl": 609,
+  "filePath": "packages/ytransport_tests/src/transport_with_auth.test.ts",
+  "pos": 5360
+ }
+]

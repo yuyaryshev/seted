@@ -1,0 +1,31 @@
+{
+    "x": 0,
+    "wins": {
+        "watch_js": {
+            "cmd": "cls & pnpm run ywjs",
+            "no_run": false
+        },
+        "watch_types": {
+            "cmd": "cls & pnpm run ywt",
+            "no_run": false
+        },
+        "watch_tst": {
+            "cmd": "cls & pnpm run ywtst",
+            "no_run": false
+        },
+        "cmd": {
+            "cmd": "cls",
+            "no_run": false
+        }
+    },
+    "disabled": {
+        "watch_test_cjs": {
+            "cmd": "cls && pnpm run watch:test:cjs",
+            "no_run": true
+        },
+        "node": {
+            "cmd": "cls && pnpm run precompile && node",
+            "no_run": true
+        }
+    }
+}

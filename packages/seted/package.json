@@ -1,0 +1,62 @@
+{
+    "name": "seted",
+    "version": "1.0.0",
+    "main": "lib/cjs/index.js",
+    "module": "lib/esm/index.js",
+    "exports": {
+        ".": {
+            "import": "./lib/esm/index.js",
+            "require": "./lib/cjs/index.js"
+        }
+    },
+    "typings": "lib/types/index.d.ts",
+    "scripts": {
+        "test": "mocha ./lib/cjs/**/*.test.js",
+        "type-check": "tsc --noEmit",
+        "type-check:watch": "pnpm run type-check -- --watch",
+        "build": "pnpm run build:cjs && pnpm run build:types && pnpm run build:esm",
+        "build:types": "tsc -p tsconfig-declarations.json --emitDeclarationOnly",
+        "build:js": "babel src --out-dir lib/cjs --extensions \".ts,.tsx\" --source-maps inline",
+        "watch": "npm run watch:types && npm run watch:js",
+        "watch:types": "tsc -p tsconfig-declarations.json --emitDeclarationOnly -w",
+        "watch:js": "babel src --out-dir lib/cjs --extensions \".ts,.tsx\" --source-maps inline -w",
+        "watch:test": "mocha ./lib/cjs/**/*.test.js -w",
+        "prettier": "prettier src --write",
+        "republish": "pnpm run build && npx version-select && pnpm publish",
+        "build:cjs": "babel src --config-file ./babel.cjs.config.cjs --out-dir lib/cjs --extensions \".ts,.tsx\" --source-maps inline",
+        "build:esm": "babel src --config-file ./babel.esm.config.cjs --out-dir lib/esm --extensions \".ts,.tsx\" --source-maps inline",
+        "watch:cjs": "babel src --config-file ./babel.cjs.config.cjs --out-dir lib/cjs --extensions \".ts,.tsx\" --source-maps inline -w",
+        "watch:esm": "babel src --config-file ./babel.esm.config.cjs --out-dir lib/esm --extensions \".ts,.tsx\" --source-maps inline -w"
+    },
+    "author": "Yuri Yaryshev",
+    "license": "PrivateNoUseAllowed",
+    "devDependencies": {
+        "@babel/cli": "^7.18.6",
+        "@babel/core": "^7.18.6",
+        "@babel/preset-env": "^7.18.6",
+        "@babel/preset-typescript": "^7.18.6",
+        "@types/chai": "^4.3.1",
+        "@types/debug": "^4.1.7",
+        "@types/memdown": "^3.0.0",
+        "@types/mocha": "^9.1.1",
+        "@types/node": "^18.0.0",
+        "chai": "^4.3.6",
+        "mocha": "^10.0.0",
+        "mochawesome": "^7.1.3",
+        "source-map-support": "^0.5.21",
+        "typescript": "^4.7.4"
+    },
+    "dependencies": {
+        "@mojotech/json-type-validation": "^3.1.0",
+        "@yuyaryshev/object_to_messages_ifc": "*",
+        "@yuyaryshev/ydomain_meta": "*",
+        "debug": "^4.3.4",
+        "javascript-stringify": "^2.1.0",
+        "memdown": "^6.1.1",
+        "ystd": "^3.4.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yuyaryshev/seted.git"
+    }
+}

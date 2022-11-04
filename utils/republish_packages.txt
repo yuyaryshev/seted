@@ -1,0 +1,31 @@
+
+
+cls & cd ../yobservable && npm run republish
+cls & cd ../yserializer && npm run republish
+
+cls & cd ../ytransport_common && npm run republish
+
+
+cls & cd ../ytransport_client && npm run republish
+
+
+cls & cd ../ytransport_server && npm run republish
+
+
+
+cls & cd ../ytransport_auth_common && npm run republish
+
+
+cls & cd ../ytransport_client_with_auth && npm run republish
+
+
+cls & cd ../ytransport_server_with_auth && npm run republish
+
+
+
+cls & cd ../ytransport_callback && npm run republish
+
+
+cls & cd ../ytransport_observable && npm run republish
+
+

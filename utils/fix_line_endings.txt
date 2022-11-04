@@ -1,0 +1,9 @@
+rem npm run clear
+find . -type f -name "*.txt" -exec dos2unix {} \;
+find . -type f -name "*.ts"  -exec dos2unix {} \;
+find . -type f -name "*.tsx"  -exec dos2unix {} \;
+find . -type f -name "*.js"  -exec dos2unix {} \;
+find . -type f -name "*.jsx"  -exec dos2unix {} \;
+find . -type f -name "*.ts"  -exec dos2unix {} \;
+find . -type f -name "*.md"  -exec dos2unix {} \;
+

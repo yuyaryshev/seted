@@ -1,0 +1,9 @@
+module.exports = {
+  diff: true,
+  extension: ["js", "cjs", "mjs"],
+  package: "./package.json",
+  slow: "75",
+  timeout: "5000",
+  ui: "bdd",
+  "watch-files": [ "packages/*/lib/cjs/**/*.js" ]
+}

@@ -1,0 +1,32 @@
+{
+    "main": "lib/cjs/index.js",
+    "module": "lib/esm/index.js",
+    "exports": {
+        ".": {
+            "import": "./lib/esm/index.js",
+            "require": "./lib/cjs/index.js"
+        }
+    },
+    "typings": "lib/types/index.d.ts",
+    "scripts": {
+        "test": "mocha ./lib/cjs/**/*.test.js",
+        "type-check": "tsc --noEmit",
+        "type-check:watch": "pnpm run type-check -- --watch",
+        "build": "pnpm run build:cjs && pnpm run build:types && pnpm run build:esm",
+        "build:types": "tsc -p tsconfig-declarations.json --emitDeclarationOnly",
+        "build:cjs": "babel src --config-file ./babel.cjs.config.cjs --out-dir lib/cjs --extensions \".ts,.tsx\" --source-maps inline",
+        "build:esm": "babel src --config-file ./babel.esm.config.cjs --out-dir lib/esm --extensions \".ts,.tsx\" --source-maps inline",
+        "watch:types": "tsc -p tsconfig-declarations.json --emitDeclarationOnly -w",
+        "watch:cjs": "babel src --config-file ./babel.cjs.config.cjs --out-dir lib/cjs --extensions \".ts,.tsx\" --source-maps inline -w",
+        "watch:esm": "babel src --config-file ./babel.esm.config.cjs --out-dir lib/esm --extensions \".ts,.tsx\" --source-maps inline -w",
+        "watch:test": "mocha ./lib/cjs/**/*.test.js -w",
+        "prettier": "prettier src --write",
+        "republish": "pnpm run build && npx version-select && pnpm publish"
+    },
+    "author": "Yuri Yaryshev",
+    "license": "PrivateNoUseAllowed",
+    "repository": {
+        "type": "git",
+        "url": "http://git.yyadev.com/yuyaryshev/odbp_bundle.git"
+    }
+}
